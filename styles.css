@@ -1,0 +1,51 @@
+body{
+    font-family: 'Courgette', cursive;
+    background-color: purple;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVH5Sx6gAK7CHH4R7XgoRddWz1g3hpbxz-QYUk6Vus4rHAEgLg&usqp=CAU");
+}
+
+#container {
+    width: 710px;
+    height: 8000px;
+    border: solid thick black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+}
+
+
+h1{ font-size: 70px;
+}
+
+p, ul {
+    font-weight: bold;
+    background-color: white;
+    opacity: 0.9;
+}
+
+#StillIRise, #Alone {
+    width: 40%;
+    height: 20%;
+    float:left;
+    margin-left: 2%;
+    padding: 20px;
+text-align: center;
+}
+
+#Alone {
+     border: solid thick blue;
+     background-image:url("https://data.whicdn.com/images/247526445/original.jpg");
+}
+
+#StillIRise{ border: solid thick red;
+background-image:url("https://66.media.tumblr.com/895d8d2d662ae75d8b42b716fdb8687e/tumblr_oqa2baYe0l1w40kzbo2_500.jpg");
+}
+
+
+
+
+
+
+
+
+
